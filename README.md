@@ -36,8 +36,7 @@ This project is a **real-time audio equalizer** application built with **PyQt5**
 
 ---
 
-## 📊 GUI Preview (Optional: Add screenshot)
+## 📊 GUI Preview
 
-Add an image like this if you want:
 
 .![Screenshot 2025-01-30 112112](https://github.com/user-attachments/assets/9524c467-5b82-401d-bd24-072269527cd7)
